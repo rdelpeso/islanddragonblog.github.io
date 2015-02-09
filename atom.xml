@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Island Dragon Blog]]></title>
-  <link href="http://islanddragon.org/blog/atom.xml" rel="self"/>
-  <link href="http://islanddragon.org/blog/"/>
-  <updated>2015-02-08T21:52:08-08:00</updated>
-  <id>http://islanddragon.org/blog/</id>
+  <link href="http://rdelpeso.github.io/atom.xml" rel="self"/>
+  <link href="http://rdelpeso.github.io/"/>
+  <updated>2015-02-08T22:10:59-08:00</updated>
+  <id>http://rdelpeso.github.io/</id>
   <author>
     <name><![CDATA[Raidel del Peso]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Scripting Screen]]></title>
-    <link href="http://islanddragon.org/blog/blog/2015/02/08/scripting-screen/"/>
+    <link href="http://rdelpeso.github.io/blog/2015/02/08/scripting-screen/"/>
     <updated>2015-02-08T21:11:19-08:00</updated>
-    <id>http://islanddragon.org/blog/blog/2015/02/08/scripting-screen</id>
+    <id>http://rdelpeso.github.io/blog/2015/02/08/scripting-screen</id>
     <content type="html"><![CDATA[<p>Recently i was presented with the challenge of executing commands against a running program. This program was already running inside screen so it seemed natural to me to do some screen scripting. To my surprise i failed to find anything straight forward that explained how this could work. So here is my take on it in hopes that it helps someone else or myself if I forget it lol.</p>
 
 <p>The simplest form is:</p>
