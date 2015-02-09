@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://islanddragon.org/blog/sitemap.xml 
